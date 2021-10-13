@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require nilsir/laravel-weixin-logging -vvv
+$ composer require wwww110011/laravel-weixin-logging -vvv
 ```
 
 ## Usage
