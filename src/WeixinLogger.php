@@ -8,7 +8,7 @@
  * This source file is subject to the MIT license that is bundled.
  */
 
-namespace Policy\LaravelWeixinLogging;
+namespace wwww110011\LaravelWeixinLogging;
 
 use Monolog\Formatter\NormalizerFormatter;
 use Monolog\Logger;

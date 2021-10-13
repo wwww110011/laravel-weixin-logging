@@ -1,5 +1,5 @@
 {
-    "name": "policy\/laravel-weixin-logging",
+    "name": "wwww110011\/laravel-weixin-logging",
     "description": "Send logs to Weixin group via Weixin Custom bot",
     "license": "MIT",
     "authors": [
@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Policy\\LaravelWeixinLogging\\": "src"
+            "wwww110011\\LaravelWeixinLogging\\": "src"
         }
     },
     "extra": {
         "laravel": {
           "providers": [
-            "Policy\\LaravelWeixinLogging\\WeixinLoggerServiceProvider"
+            "wwww110011\\LaravelWeixinLogging\\WeixinLoggerServiceProvider"
           ]
         }
     }
