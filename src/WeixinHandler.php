@@ -1,14 +1,8 @@
 <?php
 
-/*
- * This file is part of the nilsir/laravel-Weixin-logging.
- *
- * (c) nilsir <nilsir@qq.com>
- *
- * This source file is subject to the MIT license that is bundled.
- */
 
-namespace wwww110011\LaravelWeixinLogging;
+
+namespace Wwww110011\LaravelWeixinLogging;
 
 use GuzzleHttp\Client;
 use Monolog\Handler\AbstractProcessingHandler;

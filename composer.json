@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "wwww110011\\LaravelWeixinLogging\\": "src"
+            "Wwww110011\\LaravelWeixinLogging\\": "src"
         }
     },
     "extra": {
         "laravel": {
           "providers": [
-            "wwww110011\\LaravelWeixinLogging\\WeixinLoggerServiceProvider"
+            "Wwww110011\\LaravelWeixinLogging\\WeixinLoggerServiceProvider"
           ]
         }
     }
